@@ -17,8 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="http://g.recordit.co/tztQ27DHUS.gif" width=250><br>
 
-### Notes
-My collection view layout would not change despite trying everything, the movie posters only showed up as tiny grids on the entire layout. When I change the estimate size for the collection view, the posters filled up to a regular size. 
+ 
 
 
 ---
